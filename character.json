@@ -81,13 +81,14 @@
     "/context": "2026-11-10",
     "첫 스킬": "2026-11-11",
     "스킬 인자": "2026-11-11",
-    "/resume · /rename": "2026-11-12"
+    "/resume · /rename": "2026-11-12",
+    "/compact · /clear": "2026-11-12"
   },
   "summary": {
-    "xp": 2150,
+    "xp": 2170,
     "level": 21,
     "grade": "조수",
-    "dex": 7,
+    "dex": 8,
     "hatched": true
   }
 }
